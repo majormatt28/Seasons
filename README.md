@@ -3,10 +3,11 @@ Seasons is a react app I created to determine the season you are in based on you
 
 # Getting Started
 
-1) Using your Terminal on your computer, locate the file by using the cd command (Change directory).
-2) Once you cd to the seasons app, you want to use the command npm start to open the app on the web browser.
-3) Then when the website loads accept that you want to have your location accessed.
-4) When you have accepted it the website will load with either a "brr its chilly" message indicating it's winter or "Let's hit the beach" indicating its summer.
+1) Download the files onto your computer in a specify folder of your choosing.
+2) Using your Terminal on your computer, locate the file by using the cd command (Change directory).
+3) Once you cd to the seasons app, you want to use the command npm start to open the app on the web browser.
+4) Then when the website loads accept that you want to have your location accessed.
+5) When you have accepted it the website will load with either a "brr its chilly" message indicating it's winter or "Let's hit the beach" indicating its summer.
 
 # Author
 Matthew Newton 
